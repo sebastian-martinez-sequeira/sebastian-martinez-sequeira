@@ -28,4 +28,4 @@ Me apasiona la **calidad del código** y el trabajo estructurado. Aplico metodol
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![C#](https://img.shields.io/badge/C#-%239179E4?style=for-the-badge&logo=C#&logoColor=white)
+![C#](https://img.shields.io/badge/C#-%239179E4?style=for-the-badge&logo=Csharp&logoColor=white)
