@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/S3bastian2/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=S3bastian2.S3bastian2"></a>
+  <a href="https://github.com/sebastian-martinez-sequeira/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=sebastian-martinez-sequeira.sebastian-martinez-sequeira"></a>
 </p>
