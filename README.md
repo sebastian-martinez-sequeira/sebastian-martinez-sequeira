@@ -25,3 +25,4 @@ Me apasiona la **calidad del código** y el trabajo estructurado. Aplico metodol
 ---
 ### 🛠️ Tecnologías y Herramientas
 #### 🔧 Languages
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
