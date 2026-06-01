@@ -21,6 +21,7 @@
 Soy un ingeniero de sistemas enfocado en la construcción de soluciones backend eficientes, escalables y bien estructuradas. Combino una sólida base analítica y de arquitectura de software con experiencia práctica en el manejo de datos y el despliegue de aplicaciones. 
 
 Me apasiona la **calidad del código** y el trabajo estructurado. Aplico metodologías ágiles (Scrum, XP, Lean) en cada fase del ciclo de vida del desarrollo, desde el *refinement* de las tareas y la planificación, hasta la entrega final del producto.
+
 ---
 ### 🛠️ Tecnologías y Herramientas
 #### 🔧 Languages
