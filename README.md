@@ -18,9 +18,7 @@
 ---
 ### Ingeniero de Sistemas | Desarrollador Backend
 
-Soy un ingeniero de sistemas enfocado en la construcción de soluciones backend eficientes, escalables y bien estructuradas. Combino una sólida base analítica y de arquitectura de software con experiencia práctica en el manejo de datos y el despliegue de aplicaciones. 
-
-Me apasiona la **calidad del código** y el trabajo estructurado. Aplico metodologías ágiles (Scrum, XP, Lean) en cada fase del ciclo de vida del desarrollo, desde el *refinement* de las tareas y la planificación, hasta la entrega final del producto.
+Ingeniero enfocado en la construcción de soluciones backend eficientes, escalables y con arquitectura limpia. Combino una sólida comprensión de la gestión de memoria y sistemas operativos (Linux) con experiencia en el desarrollo de APIs y la integración de Inteligencia Artificial. Con gran dominio del paradigma de Programación Orientada a Objetos (POO), me especializo en la refactorización de código y el diseño de lógicas de negocio utilizando lenguajes como C#, Python y Java. Proactivo, autodidacta y orientado a la resolución de problemas complejos y la contenerización de aplicaciones.
 
 ---
 ### 🛠️ Tecnologías y Herramientas
